@@ -1,0 +1,20 @@
+{
+  "typescript.validate.enable": true,
+  "typescript.format.enable": true,
+  "javascript.validate.enable": true,
+  "javascript.format.enable": true,
+
+  "files.associations": {
+    ".browserslistrc": "jsonc",
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/README.md": true,
+    "**/package.json": true,
+    "**/.git": true,
+    "**/dist": true,
+    "**/build": true,
+  },
+}

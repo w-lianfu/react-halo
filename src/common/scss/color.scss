@@ -1,0 +1,132 @@
+$red: red;
+$green: green;
+$blue: blue;
+$black: black;
+$white: white;
+$yellow: yellow;
+$gold: gold;
+$purple: purple;
+$cyan: cyan;
+$orange: orange;
+$orangered: orangered;
+$pink: pink;
+$violet: violet;
+$yellowgreen: yellowgreen;
+$tomato: tomato;
+$tan: tan;
+$snow: snow;
+$gray: gray;
+$silver: silver;
+$skyblue: skyblue;
+$navy: navy;
+$brown: brown;
+$beige: beige;
+$magenta: magenta;
+
+$c000: #000;
+$c111: #111;
+$c222: #222;
+$c333: #333;
+$c444: #444;
+$c555: #555;
+$c666: #666;
+$c777: #777;
+$c888: #888;
+$c999: #999;
+$aaa: #aaa;
+$bbb: #bbb;
+$ccc: #ccc;
+$ddd: #ddd;
+$eee: #eee;
+$fff: #fff;
+
+$c21: #212121;
+$ef: #EFEFEF;
+
+// 项目主色调
+$amRed: #D50000;
+$amRed500: #FF5252;
+$amPink: #F50057;
+$amPink500: #FF4081;
+$amPurple: #AA00FF;
+$amPurple500: #E040FB;
+$amBlue: #007afa;
+$amBlue500: #448AFF;
+$amOrange: #E65100;
+$amOrange500: #FF9100;
+
+$amGreen: #00C853;
+$amLime: #C6FF00;
+$amYellow: #FFFF00;
+$amBrown: #795548;
+$amGrey: #9E9E9E;
+$amTeal: #009688;
+$lightGreen: #76FF03;
+$deepOrange: #FF3D00;
+
+$bgColor: #f6f7f8;
+$borderColor: #eaeeef;
+
+.red { color: $red; }
+.green { color: $green; }
+.blue { color: $blue; }
+.black { color: $black; }
+.white { color: $white; }
+.yellow { color: $yellow; }
+.gold { color: $gold; }
+.purple { color: $purple; }
+.cyan { color: $cyan; }
+.orange { color: $orange; }
+.orangered { color: $orangered; }
+.pink { color: $pink; }
+.violet { color: $violet; }
+.yellowgreen { color: $yellowgreen; }
+.tomato { color: $tomato; }
+.tan { color: $tan; }
+.snow { color: $snow; }
+.gray { color: $gray; }
+.silver { color: $silver; }
+.skyblue { color: $skyblue; }
+.navy { color: $navy; }
+.brown { color: $brown; }
+.beige { color: $beige; }
+.magenta { color: $magenta; }
+
+.c000 { color: $c000; }
+.c111 { color: $c111; }
+.c222 { color: $c222; }
+.c333 { color: $c333; }
+.c444 { color: $c444; }
+.c555 { color: $c555; }
+.c666 { color: $c666; }
+.c777 { color: $c777; }
+.c888 { color: $c888; }
+.c999 { color: $c999; }
+.aaa { color: $aaa; }
+.bbb { color: $bbb; }
+.ccc { color: $ccc; }
+.ddd { color: $ddd; }
+.eee { color: $eee; }
+.fff { color: $fff; }
+
+.am-red { color: $amRed; }
+.am-red500 { color: $amRed500; }
+.am-pink { color: $amPink; }
+.am-pink500 { color: $amPink500; }
+.am-purple { color: $amPurple; }
+.am-purple500 { color: $amPurple500; }
+.am-blue { color: $amBlue; }
+.am-blue500 { color: $amBlue500; }
+.am-orange { color: $amOrange; }
+.am-orange500 { color: $amOrange500; }
+.am-green { color: $amGreen; }
+.am-lime { color: $amLime; }
+.am-yellow { color: $amYellow; }
+.am-brown { color: $amBrown; }
+.am-grey { color: $amGrey; }
+.am-teal { color: $amTeal; }
+.light-green { color: $lightGreen; }
+.deep-orange { color: $deepOrange; }
+
+.bg-color { color: $bgColor; }
+.border-color { color: $borderColor; }
